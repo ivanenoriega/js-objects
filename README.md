@@ -12,7 +12,7 @@ Crea un objeto llamado **fiat500** con los siguientes **atributos** y **metodos*
 - model: number, con el valor: 500.
 - weight : number, con el valor: 850.
 - color: string, con el valor: "white".
-- owners: array, con los valores: "Jason", "Sara" y "Cacho".
+- owners: array, con los valores: "Jason", "Steven" y "Cacho".
 
 #### Metodos:
 
